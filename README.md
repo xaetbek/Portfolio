@@ -1,5 +1,7 @@
 # 🌐 Personal Portfolio Website
 
+Live: hayat-azimov.netlify.app
+
 Welcome to the source code for my **personal portfolio website**! 🧑‍💻 Built with **HTML**, **CSS**, and **JavaScript**, this site is a reflection of my journey as a web developer.
 
 ## 📝 Overview
