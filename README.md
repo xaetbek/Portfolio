@@ -39,5 +39,3 @@ Questions, comments, or just want to say hi? Reach out using the contact form on
 ---
 
 Thanks for stopping by! Hope you enjoy browsing through my portfolio and find it both inspiring and informative. 💻✨
-
-![Portfolio Screenshot](https://github.com/xaetbek/Portfolio.git)
