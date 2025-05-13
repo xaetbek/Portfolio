@@ -4,7 +4,9 @@ Welcome to the source code for my **personal portfolio website**! 🧑‍💻 Bu
 
 ## 📝 Overview
 
-This portfolio serves as my digital space to showcase who I am, the work I’ve done, and the skills I bring to the table. It's designed to give visitors a clear snapshot of my background and expertise in a clean, interactive format. 🚀
+This portfolio serves as my digital space to showcase who I am, the work I’ve done, and the skills I bring to the table. It's designed to give visitors a clear snapshot of my background and expertise in a clean, interactive format. 
+
+![alt text](resources/img/website1.png)
 
 ## ✨ Features
 
