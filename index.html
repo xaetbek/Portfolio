@@ -717,6 +717,29 @@
             </div>
           </div>
 
+          <script>
+            const btn = document.getElementById('button');
+
+            document.getElementById('contact-form')
+              .addEventListener('submit', function(event) {
+                event.preventDefault();
+
+                btn.value = 'Sending...';
+
+                const serviceID = 'service_bpwul6x';
+                const templateID = 'template_2dvy1ts';
+
+                emailjs.sendForm(serviceID, templateID, this)
+                  .then(() => {
+                    btn.value = 'Send Email';
+                    alert('Message Sent!');
+                  }, (err) => {
+                    btn.value = 'Send Email';
+                    alert('Failed to send message: ' + JSON.stringify(err));
+                  });
+            });
+          </script>
+
           <form id="contact-form" class="contact__form grid">
             
             <div class="contact__inputs grid">
